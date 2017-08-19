@@ -7,7 +7,7 @@ You'll have to do ti this way until Truffle allows a way for others to create "b
 ### Linux
 1. To download the main repo
 ```bash
-sudo git clone https://github.com/3of5of7/Your-First-Truffle-Dapp.git
+sudo git clone https://github.com/3of5of7/scoreboard.git
 ```
 2. To show in browser run the following command
 ```bash
