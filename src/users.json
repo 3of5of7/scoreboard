@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "points": 60
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "points": 55
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "points": 30
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "points": 20
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "points": 10
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "points": 10
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "points": 0
+  }
+]
