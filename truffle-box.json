@@ -8,7 +8,7 @@
     "Migrate": "truffle migrate",
     "Test contracts": "truffle test",
     "Test dapp": "npm test",
-    "Run dev server": "npm run start",
+    "Run dev server": "npm run dev",
     "Build for production": "npm run build"
   },
   "hooks": {
